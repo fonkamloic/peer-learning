@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:pl_learning/screens/LoadingScreen.dart';
+import 'file:///home/fl/Dropbox/github_projects/FlutterProject/peer-learning-app/lib/screens/LoadingScreen.dart';
 import 'package:pl_learning/screens/LoginScreen.dart';
 
 void main() => runApp(MyApp());
