@@ -63,12 +63,6 @@ class _DashboardState extends State<Dashboard> {
   }
 }
 
- List pages<Widget> = [
-   Profile(),
-   GenderStats(),
-
-]
-
 
 class Destination {
   const Destination(this.title, this.icon, this.color);
